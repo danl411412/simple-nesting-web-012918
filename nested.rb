@@ -88,6 +88,7 @@ def adding_matz
 		:known_for => "Ruby",
 		:languages => ["LISTP", "C"]
 	}
+	programmer_hash
 
 end
 
